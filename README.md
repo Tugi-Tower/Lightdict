@@ -25,7 +25,7 @@
 ## 📦 同梱ファイルについて
 
 - `Lightdict_python.pyw` または `Lightdict_python.exe` : アプリ本体  
-- `dictionary.db` : 不規則動詞・サンプル文用語の初期登録済み辞書ファイル  
+- `dictionary.db` : サンプル文用英単語の初期登録済み辞書ファイル  
 - `sample.txt` : 登録語と連動した英文サンプル  
 これらをダウンロードしてください。
 
