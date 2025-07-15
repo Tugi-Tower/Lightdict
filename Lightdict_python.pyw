@@ -1,3 +1,6 @@
+# Copyright (c) 2025 Tutanaga｜Lightdict
+# Licensed under the MIT License
+
 import tkinter as tk
 from tkinter import filedialog, messagebox
 from tkinter import ttk
