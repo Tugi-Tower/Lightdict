@@ -22,7 +22,7 @@
 
 ---
 
-## 📦 同梱ファイルについて
+## 📦 アプリのファイルについて
 
 - `Lightdict_python.pyw` または `Lightdict_python.exe` : アプリ本体  
 - `dictionary.db` : サンプル文用英単語の初期登録済み辞書ファイル  
