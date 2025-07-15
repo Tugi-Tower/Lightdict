@@ -1,8 +1,8 @@
 # Lightdict
 <!-- Message to non-Japanese readers -->
-> This tool may be useful for non-Japanese speakers.  
-> The application's interface is in English.  
-> Although most descriptions are in Japanese, automatic translation may help you understand the usage and concept.
+>This application may also be useful for non-Japanese speaking English learners.
+>However, please note that some of the bundled data, such as word translations and irregular verbs, are currently provided in Japanese (you can change this later yourself). 
+>Although the interface is in English, these sample items may not be accessible to non-native Japanese speakers.
 
 # 英語読書支援・辞書育成ツール（Python製）
 
