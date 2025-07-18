@@ -390,7 +390,7 @@ def open_db_editor():
 
 # メインウィンドウの設定
 root = tk.Tk()
-root.title("最初にデータベースを読み込む")
+root.title("Lightdict - 最初にDBを選択 / Choose the DB first")
 root.geometry("1000x600")
 
 # ボタンフレーム
