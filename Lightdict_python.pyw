@@ -445,7 +445,7 @@ font_size_entry = tk.Entry(font_frame, textvariable=font_size_var, width=5)
 font_size_entry.pack(side=tk.LEFT, padx=10)
 
 # フォント適用ボタン
-apply_font_button = tk.Button(font_frame, text="適用", command=lambda: update_font_settings())
+apply_font_button = tk.Button(font_frame, text="Apply", command=lambda: update_font_settings())
 apply_font_button.pack(side=tk.LEFT, padx=10)
 
 # フォント設定を適用する関数
